@@ -59,7 +59,7 @@ In this repository, you'll find projects showcasing my skills in scripting which
 
 - **Email**: briellekfoster@yahoo.com
 - **LinkedIn**: [linkedin.com/in/brielle-foster-280734268](https://www.linkedin.com/in/brielle-foster-280734268/)
-- **Portfolio**: [sites.google.com/view/brielle-foster-portfolio?usp=sharing](https://sites.google.com/view/brielle-foster-portfolio?usp=sharing)
+- **Portfolio**: [sites.google.com/view/brielle-foster-portfolio?usp=sharing](https://sites.google.com/view/brielle-foster-portfolio/about)
 
 ## Final Thoughts
 
