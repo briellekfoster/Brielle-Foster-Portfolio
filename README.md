@@ -43,7 +43,22 @@ In this repository, you'll find projects showcasing my skills in scripting which
 - **Description**: Created a Python script that creates a tool used to determine if the data conforms with Benford's law. This law states that in most naturally occuring datasets the first number is most likely to be a small number. The tool returns true or false to figure out if the data conforms to the law, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
 
-### **project_8.py [Tool to Cross Stitch Pattern with Random Shapes]**
-- **Description**: Created a Python script that creates a tool used to create a cross stitch using random shapes. The tool allows users to create a random cross stitch pattern, ensuring consistent accuracy and format.
+### **project_8.py [Tool that Corrects Mispelled Words]**
+- **Description**: Created a Python script that creates a tool used to correct words that have been mispelled. The tool helps to keep all of the words spelled correctly, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
-  
+
+### **project_9.py [Tool that Puts Together Data of Words in a File]**
+- **Description**: Created a Python script that creates a dataset which includes the total number of unique words, the most frequent words by size, the small, medium, and large words, capitalized words, non-capitalized words, punctuated words, and non-punctuated words. The tool helps to efficiently organize data of words in a file, ensuring consistent accuracy and format.
+- **Technologies Used**: Python  
+
+### **project_10.py [Puzzle Game called Mine Sweeper]**
+- **Description**: Created a Python script that creates a game where coordinates are generated on a square board. If a player makes a move on the board and they land where an X has been revealed then they lose. Otherwise, an interger will be revealed and the game will continue. The winner has to open all of the spots on the grid without stepping on a mine, ensuring consistent accuracy and format.
+- **Technologies Used**: Python
+
+## Contact 📬
+
+- **Email**: briellekfoster@yahoo.com
+- **LinkedIn**: [](https://www.linkedin.com/in/brielle-foster-280734268/)]
+- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+
