@@ -43,8 +43,8 @@ In this repository, you'll find projects showcasing my skills in scripting which
 - **Description**: Created a Python script that creates a tool used to determine if the data follows Benford's law. This law states that in most naturally occuring datasets the first number is most likely to be a small number. The tool analyzes and processes the data to figure out if the data conforms to the law, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
 
-### **project_8.py [Tool that Corrects Mispelled Words]**
-- **Description**: Created a Python script that creates a tool used to correct words that have been mispelled. The tool helps to keep all of the words spelled correctly, ensuring consistent accuracy and format.
+### **project_8.py [Tool that Corrects Misspelled Words]**
+- **Description**: Created a Python script that creates a tool used to correct words that have been misspelled. The tool helps to keep all of the words spelled correctly, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
 
 ### **project_9.py [Tool that Puts Together Data of Words in a File]**
