@@ -20,17 +20,30 @@ In this repository, you'll find projects showcasing my skills in scripting which
 - **Technologies Used**: Python
 
 ### **project_2.py [Tool to Calculate Grading Results]**
-- **Description**: Created a Python script that creates a tool to calculate grade results including the grade percentage, the letter grade, and if the student passed or failed the class. The tool allows users to quickly calculate their grades, ensuring consistent accuracy and format.
+- **Description**: Created a Python script that creates a tool used to calculate grade results including the grade percentage, the letter grade, and if the student passed or failed the class. The tool allows users to quickly calculate their grades, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
 
 ### **project_3.py [Tool to Calculate Tax and a Financial Breakdown]**
-- **Description**: Created a Python script that creates a tool to calculate the tax while also providing a financial breakdown including mortgage, bills, food, travel, tax, and other extra finances. The tool allows users to efficiently calculate their taxes and their financial breakdown, ensuring consistent accuracy and format.
+- **Description**: Created a Python script that creates a tool used to calculate the tax while also providing a financial breakdown including mortgage, bills, food, travel, tax, and other extra finances. The tool allows users to efficiently calculate their taxes and their financial breakdown, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
 
 ### **project_4.py & project_4_pt2 [Tool to Calculate How Long it will take to Save Money for a Downpayment]**
-- **Description**: Created a Python script that creates a tool to calculate how many months it will take to save money for a downpayment on a house. The tool allows users to efficiently calculate how long it will take, ensuring consistent accuracy and format.
+- **Description**: Created a Python script that creates a tool used to calculate how many months it will take to save money for a downpayment on a house. The tool allows users to efficiently calculate how long it will take, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
 
-### **project_5.py [Tool to Calculate Tax and a Financial Breakdown]**
-- **Description**: Created a Python script that creates a tool to calculate the tax while also providing a financial breakdown including mortgage, bills, food, travel, tax, and other extra finances. The tool allows users to efficiently calculate their taxes and their financial breakdown, ensuring consistent accuracy and format.
+### **project_5.py [1D Chess Game]**
+- **Description**: Created a Python script that creates a simplified game of chess. This game allows users to take turns moving and ends the game once somebody wins, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
+
+### **project_6.py [Tool to Cross Stitch Pattern with Random Shapes]**
+- **Description**: Created a Python script that creates a tool used to create a cross stitch using random shapes. The tool allows users to create a random cross stitch pattern, ensuring consistent accuracy and format.
+- **Technologies Used**: Python
+  
+### **project_7.py [Tool to Check if the Data Conforms with Benford's Law]**
+- **Description**: Created a Python script that creates a tool used to determine if the data conforms with Benford's law. This law states that in most naturally occuring datasets the first number is most likely to be a small number. The tool returns true or false to figure out if the data conforms to the law, ensuring consistent accuracy and format.
+- **Technologies Used**: Python
+
+### **project_8.py [Tool to Cross Stitch Pattern with Random Shapes]**
+- **Description**: Created a Python script that creates a tool used to create a cross stitch using random shapes. The tool allows users to create a random cross stitch pattern, ensuring consistent accuracy and format.
+- **Technologies Used**: Python
+  
