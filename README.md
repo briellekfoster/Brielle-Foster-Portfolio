@@ -2,14 +2,14 @@
 
 ## Hello, I'm Brielle Foster.
 
-I am a passionate student at the University of Arizona with a focus on developing my skills in programming, creating tools, and maintainiing pipelines. I am excited to apply for the Technical Artist Intern, Tools & Pipeline position at Riot Games, where I hope to learn and contribute to the iconic universe of *League of Legends*.
+I am a passionate student at the University of Arizona with a focus on developing my skills in programming, tool creation, and optimizing workflows in game development. I am excited to apply for the Technical Artist Intern, Tools & Pipeline position at Riot Games, where I hope to learn and contribute to the seamless development of tools and workflows to support the iconic universe of *League of Legends*.
 
 In this repository, you'll find projects showcasing my skills in scripting which will evolve more after my spring semester at the University of Arizona where I will be taking another course in Python.
 
 ## Technical Skills
 
-- **Programming Languages**: Python, C# (I am taking a course on C# in spring)
-- **Tools & Software**: Unity (I am taking a course on C# in spring, Adobe
+- **Programming Languages**: Python, C# (currently learning C# through coursework)
+- **Tools & Software**: Unity (Familiar with Unity but currently learning more about it through coursework), Adobe (Familiar with Photoshop and Premiere Pro)
 - **Pipeline**: Debugging
 - **Version Control**: Git
   
@@ -40,7 +40,7 @@ In this repository, you'll find projects showcasing my skills in scripting which
 - **Technologies Used**: Python
   
 ### **project_7.py [Tool to Check if the Data Conforms with Benford's Law]**
-- **Description**: Created a Python script that creates a tool used to determine if the data conforms with Benford's law. This law states that in most naturally occuring datasets the first number is most likely to be a small number. The tool returns true or false to figure out if the data conforms to the law, ensuring consistent accuracy and format.
+- **Description**: Created a Python script that creates a tool used to determine if the data follows Benford's law. This law states that in most naturally occuring datasets the first number is most likely to be a small number. The tool analyzes and processes the data to figure out if the data conforms to the law, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
 
 ### **project_8.py [Tool that Corrects Mispelled Words]**
@@ -55,10 +55,14 @@ In this repository, you'll find projects showcasing my skills in scripting which
 - **Description**: Created a Python script that creates a game where coordinates are generated on a square board. If a player makes a move on the board and they land where an X has been revealed then they lose. Otherwise, an interger will be revealed and the game will continue. The winner has to open all of the spots on the grid without stepping on a mine, ensuring consistent accuracy and format.
 - **Technologies Used**: Python
 
-## Contact 📬
+## Contact 
 
 - **Email**: briellekfoster@yahoo.com
-- **LinkedIn**: [](https://www.linkedin.com/in/brielle-foster-280734268/)]
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [linkedin.com/in/brielle-foster-280734268](https://www.linkedin.com/in/brielle-foster-280734268/)]
+- **Portfolio**: [sites.google.com/view/brielle-foster-portfolio?usp=sharing](https://sites.google.com/view/brielle-foster-portfolio?usp=sharing)
 
+## Final Thoughts
+
+I'm extremely excited about the opportunity to contribute to the *League of Legends* team at Riot Games. I believe my skills and determination to learn will make me a great addition to the team. I look forward to the possibility of collaborating with talented artists and engineers to build incredible gaming experiences.
+
+Thank you for taking the time to review my work!
